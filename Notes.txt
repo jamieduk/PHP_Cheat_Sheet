@@ -16,9 +16,9 @@ Run With the following
 
 ./menu
 
-Any issues forum link is
+Any issues start an issue!
 
-https://jnet.forumotion.com/t1756-PHP-cheat-sheet-app#2718
+https://github.com/jamieduk/PHP_Cheat_Sheet
 
 
 The Website Is
