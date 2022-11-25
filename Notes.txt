@@ -1,0 +1,41 @@
+PHP Cheat Sheet App Creator By (c)J~Net 2022
+
+
+Search file PHP code string related to your needs and results can help you write faster code!
+
+
+git clone https://github.com/jamieduk/PHP_Cheat_Sheet.git
+
+cd into it and make executable
+
+cd PHP_Cheat_Sheet
+
+sudo chmod +x *.*
+
+Run With the following
+
+./menu
+
+Any issues forum link is
+
+https://jnet.forumotion.com/t1756-PHP-cheat-sheet-app#2718
+
+
+The Website Is
+jnet.sytes.net
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+More To Come In The Future!
+
+Use the compression menu to work with archives for the records folder!
+
+
+
+
+
+
+
+
+
+
+
