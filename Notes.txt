@@ -17,12 +17,16 @@ Run With the following
 ./menu
 
 Any issues start an issue!
-
 https://github.com/jamieduk/PHP_Cheat_Sheet
 
+Forum Link
+https://jnet.forumotion.com/t1907-php-cheat-sheet#2961
 
 The Website Is
 jnet.sytes.net
+
+J~Net Radio
+radio2020.ddns.net
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 More To Come In The Future!
