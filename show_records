@@ -4,7 +4,7 @@ pwd= `pwd` # $pwd/
 numfiles=$(find records/*.txt | wc -l)
 #record_count=`cat records/count.txt`
 NOW=`date '+%F_%H:%M:%S'`;
-echo "J~Net PHP Database (c)J~Net 2021 The Time & Date Is $NOW"
+echo "J~Net PHP Database (c)J~Net 2022 The Time & Date Is $NOW"
 echo ""
 echo "Total Records $record_count"
 echo ""

@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 NOW=`date '+%F_%H:%M:%S'`;
-echo "This Will Setup J~Net PHP Database 2021 The Time & Date Is $NOW"
+echo "This Will Setup J~Net PHP Database 2022 The Time & Date Is $NOW"
 sudo chmod +x menu
 sudo chmod +x add_record
 sudo chmod +x search_records

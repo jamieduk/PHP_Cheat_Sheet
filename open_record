@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 NOW=`date '+%F_%H:%M:%S'`;
-echo "J~Net PHP Database (c)J~Net 2021 The Time & Date Is $NOW"
+echo "J~Net PHP Database (c)J~Net 2022 The Time & Date Is $NOW"
 echo ""
 echo -e "\e[93mType Record Number To Open"
 read input

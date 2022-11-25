@@ -4,7 +4,7 @@
 #
 NOW=`date '+%F_%H:%M:%S'`;
 lastfile="records/lastsearch.txt"
-echo "J~Net PHP Database (c)J~Net 2021 The Time & Date Is $NOW"
+echo "J~Net PHP Database (c)J~Net 2022 The Time & Date Is $NOW"
 echo ""
 echo "First The Last Record Search Will Be Displayed"
 

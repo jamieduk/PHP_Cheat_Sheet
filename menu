@@ -1,11 +1,11 @@
 #!/bin/bash
-# (c) J~Net 2021
+# (c) J~Net 2022
 #
 # ./menu
 #
 #
 #
-echo -e "\e[93mJ~Net PHP Database Menu (c)J~Net 2021"
+echo -e "\e[93mJ~Net PHP Database Menu (c)J~Net 2022"
 echo ""
 path="." # .
 select fname in $path/*; #

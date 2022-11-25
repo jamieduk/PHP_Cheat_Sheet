@@ -1,5 +1,5 @@
 #!/bin/bash
-# (c) J~Net 2021
+# (c) J~Net 2022
 #
 #
 # ./add_missing.sh ufw-framework
@@ -8,7 +8,7 @@
 path="records/"
 input=$1
 defaultinput=""
-echo "Welcome To Record Creator By (c)J~Net 2021"
+echo "Welcome To Record Creator By (c)J~Net 2022"
 if [ "$#" -eq  "0" ]
   then
     read -p "Enter Command To Create A Record For [$defaultinput]: " input
